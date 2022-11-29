@@ -1,5 +1,5 @@
 #Thu Apr 11 17:37:58 SRET 2022
-db_user: username_new_new
+db_user: loginuser
 db_password: sekret
 db_url: https://host.domain.com
-db_port: 80
+db_port: 443
