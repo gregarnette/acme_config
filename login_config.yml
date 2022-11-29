@@ -4,7 +4,7 @@ db_password: sekret
 db_url: https://host.domain.com
 db_port: 8000
 prod_db_port: 443
-staging_db_port: 443443443
+staging_db_port: 443
 dev_db_port: 443
 prod_user: prod_user
 staging_user: staging_user
