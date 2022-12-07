@@ -3,7 +3,7 @@ db_url: https://host.domain.com
 db_port: 8000
 prod_db_port: 443
 staging_db_port: 443
-dev_db_port: 443
+dev_db_port: 443443443
 db_user: loginuser
 db_password: sekret
 prod_user: prod_user
