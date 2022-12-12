@@ -4,7 +4,7 @@ db_port: 8000
 prod_db_port: 443
 staging_db_port: 443
 dev_db_port: 443
-db_user: loginuser
+db_user: billing_db_user
 db_password: sekret
 prod_user: prod_db_user
 staging_user: staging_db__user
