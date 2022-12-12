@@ -6,6 +6,6 @@ staging_db_port: 443
 dev_db_port: 443
 db_user: loginuser
 db_password: sekret
-prod_user: prod_user
-staging_user: staging_user
-dev_user: dev_user
+prod_user: prod_db_user
+staging_user: staging_db__user
+dev_user: dev_db_user
